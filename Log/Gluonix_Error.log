@@ -1,0 +1,178 @@
+2025-11-25 20:18:07 - Popup -> Show -> bad window path name ".!toplevel"
+2025-11-25 20:18:05 - Popup -> Show -> bad window path name ".!toplevel"
+2025-11-25 20:15:57 - Popup -> Show -> bad window path name ".!toplevel"
+2025-11-25 20:07:51 - Button -> Display -> 'Button' object has no attribute '_Width_Current'
+2025-11-25 20:07:51 - Frame -> Display -> 'Frame' object has no attribute '_Left_Current'
+2025-11-25 18:40:21 - Image -> Display -> 'Image' object has no attribute '_Width_Current'
+2025-11-25 18:40:21 - Frame -> Display -> 'Frame' object has no attribute '_Left_Current'
+2025-11-25 18:39:53 - Image -> Relocate -> 'Image' object has no attribute '_Width'
+2025-11-25 18:39:32 - Image -> Display -> 'Image' object has no attribute '_Width_Current'
+2025-11-25 18:39:32 - Frame -> Display -> 'Frame' object has no attribute '_Left_Current'
+2025-11-25 18:39:01 - Image -> Load -> 'NoneType' object is not subscriptable
+2025-11-25 18:39:01 - Image -> Convert -> height and width must be > 0
+2025-11-25 18:38:54 - Image -> Load -> 'NoneType' object is not subscriptable
+2025-11-25 18:38:54 - Image -> Convert -> height and width must be > 0
+2025-11-25 17:44:28 - Image -> Load -> 'NoneType' object is not subscriptable
+2025-11-25 17:44:28 - Image -> Convert -> height and width must be > 0
+2025-11-25 17:44:24 - Image -> Load -> 'NoneType' object is not subscriptable
+2025-11-25 17:44:24 - Image -> Convert -> height and width must be > 0
+2025-11-25 13:23:16 - Label -> Display -> 'Label' object has no attribute '_Width_Current'
+2025-11-25 13:23:16 - Frame -> Display -> 'Frame' object has no attribute '_Left_Current'
+2025-11-25 12:21:38 - Image -> Relocate -> 'Image' object has no attribute '_Width'
+2025-11-25 12:20:16 - Image -> Display -> 'Image' object has no attribute '_Width_Current'
+2025-11-25 12:20:16 - Frame -> Display -> 'Frame' object has no attribute '_Left_Current'
+2025-11-25 10:55:18 - List -> Delete -> list.remove(x): x not in list
+2025-11-25 10:55:09 - List -> Display -> 'List' object has no attribute '_Width_Current'
+2025-11-25 10:55:09 - Frame -> Display -> 'Frame' object has no attribute '_Left_Current'
+2025-11-25 10:54:38 - List -> Display -> 'List' object has no attribute '_Width_Current'
+2025-11-25 10:54:38 - Frame -> Display -> 'Frame' object has no attribute '_Left_Current'
+2025-11-25 10:48:19 - Label -> Display -> 'Label' object has no attribute '_Width_Current'
+2025-11-25 10:48:19 - Frame -> Display -> 'Frame' object has no attribute '_Left_Current'
+2025-11-25 10:09:32 - Label -> Display -> 'Label' object has no attribute '_Width_Current'
+2025-11-25 10:09:32 - Frame -> Display -> 'Frame' object has no attribute '_Left_Current'
+2025-11-25 10:08:15 - Label -> Display -> 'Label' object has no attribute '_Width_Current'
+2025-11-25 10:08:15 - Frame -> Display -> 'Frame' object has no attribute '_Left_Current'
+2025-11-24 22:18:51 - Image -> Load -> image "pyimage20" doesn't exist
+2025-11-24 22:18:51 - Image -> Load -> image "pyimage19" doesn't exist
+2025-11-24 22:18:51 - GUI -> Create -> can't use "pyimage18" as iconphoto: not a photo image
+2025-11-24 22:16:55 - GUI -> Grab_Widget -> X get_image failed: error 8 (73, 0, 1024)
+2025-11-24 22:16:55 - GUI -> Grab_Widget -> X get_image failed: error 8 (73, 0, 1024)
+2025-11-24 22:16:55 - GUI -> Grab_Widget -> X get_image failed: error 8 (73, 0, 1024)
+2025-11-24 22:16:55 - GUI -> Grab_Widget -> X get_image failed: error 8 (73, 0, 1024)
+2025-11-24 22:16:55 - GUI -> Grab_Widget -> X get_image failed: error 8 (73, 0, 1024)
+2025-11-24 22:16:55 - GUI -> Grab_Widget -> X get_image failed: error 8 (73, 0, 1024)
+2025-11-24 22:16:55 - Image -> Load -> image "pyimage20" doesn't exist
+2025-11-24 22:16:55 - Image -> Load -> image "pyimage19" doesn't exist
+2025-11-24 22:16:55 - GUI -> Create -> can't use "pyimage18" as iconphoto: not a photo image
+2025-11-24 22:16:37 - GUI -> Grab_Widget -> X get_image failed: error 8 (73, 0, 1024)
+2025-11-24 22:16:37 - GUI -> Grab_Widget -> X get_image failed: error 8 (73, 0, 1024)
+2025-11-24 22:16:37 - GUI -> Grab_Widget -> X get_image failed: error 8 (73, 0, 1024)
+2025-11-24 22:16:37 - GUI -> Grab_Widget -> X get_image failed: error 8 (73, 0, 1024)
+2025-11-24 22:16:37 - GUI -> Grab_Widget -> X get_image failed: error 8 (73, 0, 1024)
+2025-11-24 22:16:37 - GUI -> Grab_Widget -> X get_image failed: error 8 (73, 0, 1024)
+2025-11-24 22:16:37 - Image -> Load -> image "pyimage20" doesn't exist
+2025-11-24 22:16:37 - Image -> Load -> image "pyimage19" doesn't exist
+2025-11-24 22:16:36 - GUI -> Create -> can't use "pyimage18" as iconphoto: not a photo image
+2025-11-24 22:15:58 - Image -> Load -> image "pyimage20" doesn't exist
+2025-11-24 22:15:58 - Image -> Load -> image "pyimage19" doesn't exist
+2025-11-24 22:15:58 - GUI -> Create -> can't use "pyimage18" as iconphoto: not a photo image
+2025-11-24 22:11:50 - GUI -> Grab_Widget -> X get_image failed: error 8 (73, 0, 1024)
+2025-11-24 22:11:50 - GUI -> Grab_Widget -> X get_image failed: error 8 (73, 0, 1024)
+2025-11-24 22:11:50 - GUI -> Grab_Widget -> X get_image failed: error 8 (73, 0, 1024)
+2025-11-24 22:11:50 - GUI -> Grab_Widget -> X get_image failed: error 8 (73, 0, 1024)
+2025-11-24 22:11:50 - GUI -> Grab_Widget -> X get_image failed: error 8 (73, 0, 1024)
+2025-11-24 22:11:50 - GUI -> Grab_Widget -> X get_image failed: error 8 (73, 0, 1024)
+2025-11-24 22:11:50 - GUI -> Grab_Widget -> X get_image failed: error 8 (73, 0, 1024)
+2025-11-24 22:11:50 - GUI -> Grab_Widget -> X get_image failed: error 8 (73, 0, 1024)
+2025-11-24 22:11:50 - GUI -> Grab_Widget -> X get_image failed: error 8 (73, 0, 1024)
+2025-11-24 22:11:50 - Image -> Load -> image "pyimage20" doesn't exist
+2025-11-24 22:11:50 - Image -> Load -> image "pyimage19" doesn't exist
+2025-11-24 22:11:50 - GUI -> Create -> can't use "pyimage18" as iconphoto: not a photo image
+2025-11-24 21:35:10 - GUI -> Grab_Widget -> X get_image failed: error 8 (73, 0, 1024)
+2025-11-24 21:35:10 - GUI -> Grab_Widget -> X get_image failed: error 8 (73, 0, 1024)
+2025-11-24 21:35:10 - GUI -> Grab_Widget -> X get_image failed: error 8 (73, 0, 1024)
+2025-11-24 21:35:10 - GUI -> Grab_Widget -> X get_image failed: error 8 (73, 0, 1024)
+2025-11-24 21:35:10 - GUI -> Grab_Widget -> X get_image failed: error 8 (73, 0, 1024)
+2025-11-24 21:35:10 - GUI -> Grab_Widget -> X get_image failed: error 8 (73, 0, 1024)
+2025-11-24 21:35:10 - GUI -> Grab_Widget -> X get_image failed: error 8 (73, 0, 1024)
+2025-11-24 21:35:10 - GUI -> Grab_Widget -> X get_image failed: error 8 (73, 0, 1024)
+2025-11-24 21:35:10 - GUI -> Grab_Widget -> X get_image failed: error 8 (73, 0, 1024)
+2025-11-24 21:35:10 - GUI -> Grab_Widget -> X get_image failed: error 8 (73, 0, 1024)
+2025-11-24 21:34:59 - GUI -> Grab_Widget -> X get_image failed: error 8 (73, 0, 1024)
+2025-11-24 21:34:59 - GUI -> Grab_Widget -> X get_image failed: error 8 (73, 0, 1024)
+2025-11-24 21:34:59 - GUI -> Grab_Widget -> X get_image failed: error 8 (73, 0, 1024)
+2025-11-24 21:34:59 - GUI -> Grab_Widget -> X get_image failed: error 8 (73, 0, 1024)
+2025-11-24 21:34:59 - GUI -> Grab_Widget -> X get_image failed: error 8 (73, 0, 1024)
+2025-11-24 21:34:59 - GUI -> Grab_Widget -> X get_image failed: error 8 (73, 0, 1024)
+2025-11-24 21:34:59 - GUI -> Grab_Widget -> X get_image failed: error 8 (73, 0, 1024)
+2025-11-24 21:34:59 - GUI -> Grab_Widget -> X get_image failed: error 8 (73, 0, 1024)
+2025-11-24 21:34:59 - GUI -> Grab_Widget -> X get_image failed: error 8 (73, 0, 1024)
+2025-11-24 21:34:59 - GUI -> Grab_Widget -> X get_image failed: error 8 (73, 0, 1024)
+2025-11-24 21:34:35 - GUI -> Grab_Widget -> X get_image failed: error 8 (73, 0, 1024)
+2025-11-24 21:34:35 - GUI -> Grab_Widget -> X get_image failed: error 8 (73, 0, 1024)
+2025-11-24 21:34:35 - GUI -> Grab_Widget -> X get_image failed: error 8 (73, 0, 1024)
+2025-11-24 21:34:35 - GUI -> Grab_Widget -> X get_image failed: error 8 (73, 0, 1024)
+2025-11-24 21:34:35 - GUI -> Grab_Widget -> X get_image failed: error 8 (73, 0, 1024)
+2025-11-24 21:34:35 - GUI -> Grab_Widget -> X get_image failed: error 8 (73, 0, 1024)
+2025-11-24 21:34:35 - GUI -> Grab_Widget -> X get_image failed: error 8 (73, 0, 1024)
+2025-11-24 21:34:35 - GUI -> Grab_Widget -> X get_image failed: error 8 (73, 0, 1024)
+2025-11-24 21:34:35 - GUI -> Grab_Widget -> X get_image failed: error 8 (73, 0, 1024)
+2025-11-24 21:34:35 - GUI -> Grab_Widget -> X get_image failed: error 8 (73, 0, 1024)
+2025-11-24 21:34:25 - GUI -> Grab_Widget -> X get_image failed: error 8 (73, 0, 1024)
+2025-11-24 21:34:25 - GUI -> Grab_Widget -> X get_image failed: error 8 (73, 0, 1024)
+2025-11-24 21:34:25 - GUI -> Grab_Widget -> X get_image failed: error 8 (73, 0, 1024)
+2025-11-24 21:34:25 - GUI -> Grab_Widget -> X get_image failed: error 8 (73, 0, 1024)
+2025-11-24 21:34:25 - GUI -> Grab_Widget -> X get_image failed: error 8 (73, 0, 1024)
+2025-11-24 21:34:25 - GUI -> Grab_Widget -> X get_image failed: error 8 (73, 0, 1024)
+2025-11-24 21:34:25 - GUI -> Grab_Widget -> X get_image failed: error 8 (73, 0, 1024)
+2025-11-24 21:34:25 - GUI -> Grab_Widget -> X get_image failed: error 8 (73, 0, 1024)
+2025-11-24 21:34:25 - GUI -> Grab_Widget -> X get_image failed: error 8 (73, 0, 1024)
+2025-11-24 21:34:25 - GUI -> Grab_Widget -> X get_image failed: error 8 (73, 0, 1024)
+2025-11-24 21:33:27 - GUI -> Grab_Widget -> X get_image failed: error 8 (73, 0, 1024)
+2025-11-24 21:33:27 - GUI -> Grab_Widget -> X get_image failed: error 8 (73, 0, 1024)
+2025-11-24 21:33:27 - GUI -> Grab_Widget -> X get_image failed: error 8 (73, 0, 1024)
+2025-11-24 21:33:27 - GUI -> Grab_Widget -> X get_image failed: error 8 (73, 0, 1024)
+2025-11-24 21:33:27 - GUI -> Grab_Widget -> X get_image failed: error 8 (73, 0, 1024)
+2025-11-24 21:33:27 - GUI -> Grab_Widget -> X get_image failed: error 8 (73, 0, 1024)
+2025-11-24 21:33:27 - GUI -> Grab_Widget -> X get_image failed: error 8 (73, 0, 1024)
+2025-11-24 21:33:27 - GUI -> Grab_Widget -> X get_image failed: error 8 (73, 0, 1024)
+2025-11-24 21:33:27 - GUI -> Grab_Widget -> X get_image failed: error 8 (73, 0, 1024)
+2025-11-24 21:32:11 - GUI -> Grab_Widget -> X get_image failed: error 8 (73, 0, 1024)
+2025-11-24 21:32:11 - GUI -> Grab_Widget -> X get_image failed: error 8 (73, 0, 1024)
+2025-11-24 21:32:11 - GUI -> Grab_Widget -> X get_image failed: error 8 (73, 0, 1024)
+2025-11-24 21:32:11 - GUI -> Grab_Widget -> X get_image failed: error 8 (73, 0, 1024)
+2025-11-24 21:32:11 - GUI -> Grab_Widget -> X get_image failed: error 8 (73, 0, 1024)
+2025-11-24 21:32:11 - GUI -> Grab_Widget -> X get_image failed: error 8 (73, 0, 1024)
+2025-11-24 21:32:11 - GUI -> Grab_Widget -> X get_image failed: error 8 (73, 0, 1024)
+2025-11-24 21:32:11 - GUI -> Grab_Widget -> X get_image failed: error 8 (73, 0, 1024)
+2025-11-24 21:32:11 - GUI -> Grab_Widget -> X get_image failed: error 8 (73, 0, 1024)
+2025-11-24 21:31:28 - Frame -> Display -> 'Frame' object has no attribute '_Left_Current'
+2025-11-24 21:31:17 - Frame -> Display -> 'Frame' object has no attribute '_Left_Current'
+2025-11-24 21:30:47 - Frame -> Display -> 'Frame' object has no attribute '_Left_Current'
+2025-11-24 21:30:00 - Frame -> Display -> 'Frame' object has no attribute '_Left_Current'
+2025-11-24 21:29:44 - Frame -> Display -> 'Frame' object has no attribute '_Left_Current'
+2025-11-24 21:29:13 - Image -> Display -> 'Image' object has no attribute '_Width_Current'
+2025-11-24 21:29:13 - Frame -> Display -> 'Frame' object has no attribute '_Left_Current'
+2025-11-24 21:28:57 - Image -> Display -> 'Image' object has no attribute '_Width_Current'
+2025-11-24 21:28:57 - Frame -> Display -> 'Frame' object has no attribute '_Left_Current'
+2025-11-24 21:28:02 - Image -> Relocate -> 'Image' object has no attribute '_Width'
+2025-11-24 21:27:57 - Image -> Relocate -> 'Image' object has no attribute '_Width'
+2025-11-24 21:27:34 - Image -> Display -> 'Image' object has no attribute '_Width_Current'
+2025-11-24 21:27:34 - Frame -> Display -> 'Frame' object has no attribute '_Left_Current'
+2025-11-24 21:27:03 - Image -> Display -> 'Image' object has no attribute '_Width_Current'
+2025-11-24 21:27:03 - Frame -> Display -> 'Frame' object has no attribute '_Left_Current'
+2025-11-24 21:27:00 - Image -> Delete -> list.remove(x): x not in list
+2025-11-24 21:26:57 - Image -> Display -> 'Image' object has no attribute '_Width_Current'
+2025-11-24 21:26:57 - Frame -> Display -> 'Frame' object has no attribute '_Left_Current'
+2025-11-24 21:26:12 - Image -> Display -> 'Image' object has no attribute '_Width_Current'
+2025-11-24 21:26:12 - Frame -> Display -> 'Frame' object has no attribute '_Left_Current'
+2025-11-24 20:34:45 - GUI -> Grab_Widget -> X get_image failed: error 8 (73, 0, 1024)
+2025-11-24 20:34:45 - GUI -> Grab_Widget -> X get_image failed: error 8 (73, 0, 1024)
+2025-11-24 20:34:45 - GUI -> Grab_Widget -> X get_image failed: error 8 (73, 0, 1024)
+2025-11-24 20:34:45 - GUI -> Grab_Widget -> X get_image failed: error 8 (73, 0, 1024)
+2025-11-24 20:34:45 - GUI -> Grab_Widget -> X get_image failed: error 8 (73, 0, 1024)
+2025-11-24 20:34:45 - GUI -> Grab_Widget -> X get_image failed: error 8 (73, 0, 1024)
+2025-11-24 20:34:45 - GUI -> Grab_Widget -> X get_image failed: error 8 (73, 0, 1024)
+2025-11-24 20:34:45 - GUI -> Grab_Widget -> X get_image failed: error 8 (73, 0, 1024)
+2025-11-24 20:34:45 - GUI -> Grab_Widget -> X get_image failed: error 8 (73, 0, 1024)
+2025-11-24 20:01:11 - Button -> Font -> float division by zero
+2025-11-24 20:01:11 - Button -> Font -> float division by zero
+2025-11-24 20:01:10 - Button -> Font -> float division by zero
+2025-11-24 20:01:10 - Button -> Font -> float division by zero
+2025-11-24 20:01:04 - Button -> Font -> float division by zero
+2025-11-24 20:01:04 - Button -> Font -> float division by zero
+2025-11-24 20:01:04 - Button -> Font -> float division by zero
+2025-11-24 20:01:04 - Button -> Font -> float division by zero
+2025-11-24 19:25:23 - Button -> Delete -> list.remove(x): x not in list
+2025-11-24 19:25:22 - Button -> Display -> 'Button' object has no attribute '_Width_Current'
+2025-11-24 19:25:22 - Frame -> Display -> 'Frame' object has no attribute '_Left_Current'
+2025-11-24 19:25:21 - Button -> Delete -> list.remove(x): x not in list
+2025-11-24 19:24:59 - Button -> Display -> 'Button' object has no attribute '_Width_Current'
+2025-11-24 19:24:59 - Frame -> Display -> 'Frame' object has no attribute '_Left_Current'
+2025-11-24 19:24:25 - Button -> Display -> 'Button' object has no attribute '_Width_Current'
+2025-11-24 19:24:25 - Frame -> Display -> 'Frame' object has no attribute '_Left_Current'
+2025-11-24 19:24:24 - Button -> Display -> 'Button' object has no attribute '_Width_Current'
+2025-11-24 19:24:24 - Frame -> Display -> 'Frame' object has no attribute '_Left_Current'
+2025-11-24 19:01:37 - Frame -> Delete -> list.remove(x): x not in list
+2025-11-24 19:01:32 - Frame -> Display -> 'Frame' object has no attribute '_Left_Current'
+2025-11-24 19:01:31 - Frame -> Display -> 'Frame' object has no attribute '_Left_Current'

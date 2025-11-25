@@ -1,9 +1,0 @@
-__pycache__/
-*.pyc
-*.pyo
-*.log
-myenv/
-Data/
-Nucleon/__pycache__/
-Gluonix/__pycache__/
-*.ng.backup
