@@ -75,6 +75,12 @@ class hitung:
     def getImpedansi(self):
         return self.impedansi, self.magnitudoZ, self.derajatZ
 
+    def getDayaRerata(self):
+        return self.dayaRerata
+
+    def getPeriode(self):
+        return self.periode
+
 
     
 

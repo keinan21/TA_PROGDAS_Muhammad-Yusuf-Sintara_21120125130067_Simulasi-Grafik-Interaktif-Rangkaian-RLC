@@ -1,0 +1,25 @@
+
+      Root
+          Judul
+          Pembuat
+          FrameInput
+              TextResistor
+              InputResistor
+              TextKapasitor
+              TextInduktor
+              InputKapasitor
+              InputInduktor
+              GambarTegangan
+              TextW
+              TextVmax
+              TextSudutV
+              InputW
+              InputVmax
+              InputSudutV
+          FrameUtama
+              ButtonHasil
+              ButtonMateri
+              FrameGrafik
+                  GambarGrafik
+          FrameHasil
+              TextHasil
