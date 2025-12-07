@@ -90,7 +90,9 @@ class plot(hitung):
         self.jangkaWaktu = np.linspace(0, 2*self.periode, 1000)
         self.plotTegangan = self.magnitudoV * np.cos(self.kecepatanSudut * self.jangkaWaktu + self.radianV)
         self.plotArus = self.magnitudoI * np.cos(self.kecepatanSudut * self.jangkaWaktu + self.radianI)
-        self.plotDaya = self.dayaRerata + (self.magnitudoV * self.magnitudoI / 2) * np.cos(self.radianI + self.radianV + 2 * self.kecepatanSudut * self.jangkaWaktu)
+        jumlah = self.radianI + self.radianV
+        self.plotDaya = self.dayaRerata + (0.5 * self.magnitudoV * self.magnitudoI * np.cos(jumlah + (2 * self.kecepatanSudut * self.jangkaWaktu)))
+
 
     def getPlotTegangan(self):
         return self.plotTegangan

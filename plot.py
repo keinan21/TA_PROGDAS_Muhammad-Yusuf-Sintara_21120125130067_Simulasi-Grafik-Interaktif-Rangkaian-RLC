@@ -23,12 +23,7 @@ def gambarGrafik(resistor, induktor, kapasitor, vmax, kecepatanSudut, derajatV):
     plot_arus, = ax_arus.plot(t, I, label='Arus (A)', color='orange', linewidth=1.8, zorder=2)
     ax_arus.set_ylabel('Arus (A)', family="monospace", color='orange')
 
-    if len(I):
-        ymin = np.nanmin(I)
-        ymax = np.nanmax(I)
-        if np.isfinite(ymin) and np.isfinite(ymax) and ymin != ymax:
-            pad = 0.05 * (ymax - ymin)
-            ax_arus.set_ylim(ymin - pad, ymax + pad)
+    ax_arus.set_ylim(-obj.magnitudoV, obj.magnitudoV)
 
     ax_tegangan.grid(True, which='both', alpha=0.25)
 
@@ -48,5 +43,3 @@ def gambarGrafik(resistor, induktor, kapasitor, vmax, kecepatanSudut, derajatV):
     plt.savefig('assets/hasilGrafik.png', dpi=600)
 
     return obj
-
-

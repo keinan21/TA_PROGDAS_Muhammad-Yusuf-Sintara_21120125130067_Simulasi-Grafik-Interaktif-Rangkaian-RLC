@@ -19,9 +19,9 @@ if __name__=='__main__':
     R_input  = Root.FrameInput.InputResistor
     L_input  = Root.FrameInput.InputInduktor
     C_input  = Root.FrameInput.InputKapasitor
-    Vm_input = Root.FrameInput.InputVmax
+    sudutV_input = Root.FrameInput.InputVmax
     w_input  = Root.FrameInput.InputW
-    sudutV_input = Root.FrameInput.InputSudutV
+    Vm_input = Root.FrameInput.InputSudutV
 
     tombol_run     = Root.FrameUtama.ButtonHasil
     tombol_materi  = Root.FrameUtama.ButtonMateri
@@ -31,7 +31,7 @@ if __name__=='__main__':
     teks_info.Set("Silakan masukkan nilai R, L, C, Vmax, ω, dan sudut V untuk menghitung parameter RLC seri dan menampilkan grafiknya.")
 
 
-    def is_float(s):
+    def cek_float(s):
         try:
             float(s)
             return True
@@ -52,13 +52,22 @@ if __name__=='__main__':
             teks_info.Set("Error: Semua input harus diisi.")
             return
         
-        if is_float(R) and is_float(L) and is_float(C) and is_float(Vm) and is_float(w) and is_float(sudutV):
+        if cek_float(R) and cek_float(L) and cek_float(C) and cek_float(Vm) and cek_float(w) and cek_float(sudutV):
             R = float(R)
             L = float(L)
             C = float(C)
             Vm = float(Vm)
             w = float(w)
             sudutV = float(sudutV)
+
+
+            if w <= 0:
+                teks_info.Set("Error: ω harus > 0 (rad/s).")
+                return
+            if C <= 0 or L < 0 or R < 0:
+                teks_info.Set("Error: R, L, C harus bernilai fisik (R≥0, L≥0, C>0).")
+                return
+
 
             obj = gambarGrafik(R, L, C, Vm, w, sudutV)
             gambar_grafik.Set("assets/hasilGrafik.png")
@@ -70,14 +79,14 @@ if __name__=='__main__':
             teks_info.Set(f"""Hasil Perhitungan RLC Seri:
 Resistor (R): {R:.2f} Ω
 Induktor (L): {L:.2f} H
-Kapasitor (C): {C:.2f} F
+Kapasitor (C): {C} F
 V(t) = {Vm:.2f} ∠ {derajatV:.2f}° V 
 I(t) = {Im:.2f} ∠ {derajatI:.2f}° A
 Impedansi (Z): {Zm:.2f} ∠ {derajatZ:.2f}° Ω
 Kecepatan Sudut (ω): {w} rad/s
 Daya Rata-rata (P): {obj.getDayaRerata():.2f} W
 Periode (T): {obj.getPeriode():.2f} s
-P(t) = {obj.getDayaRerata():.2f} + {round((Vm * Im) / 2, 2)} cos(2 * {w:.2f} * t + ({derajatV:.2f} - {derajatI:.2f})) W
+P(t) = {obj.getDayaRerata():.2f} + {round((Vm * Im) / 2, 2)} cos(2 * {w:.2f} * t + ({derajatV:.2f} + {derajatI:.2f})) W
             """)
 
         else:
